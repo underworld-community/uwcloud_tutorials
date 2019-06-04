@@ -1,0 +1,3 @@
+[submodule "uwgeo_repo_example"]
+	path = uwgeo_repo_example
+	url = git@github.com:rbeucher/uwgeo_repo_example.git
