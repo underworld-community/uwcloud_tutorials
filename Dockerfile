@@ -1,4 +1,5 @@
 FROM underworldcode/underworld2:latest
-COPY . /home/jovyan/workspace/.
+WORKDIR $HOME/workspace/user_data 
+COPY . .
 
 
