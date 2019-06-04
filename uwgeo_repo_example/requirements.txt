@@ -1,0 +1,2 @@
+pandas
+uwgeodynamics==v2.7.7
