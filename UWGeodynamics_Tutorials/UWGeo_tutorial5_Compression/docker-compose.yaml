@@ -1,0 +1,17 @@
+
+version: '3' 
+services:     
+    underworld:
+        container_name: underworld
+        build:
+            context: $PWD
+            dockerfile: Dockerfile
+        hostname: "uw-container"
+        volumes: 
+          - $PWD:/workspace/user_data
+        working_dir: /workspace/user_data
+        command: "jupyter notebook --ip=0.0.0.0 --no-browser"
+        ports:
+          - "8888:8888"
+          - "9999:9999"        
+
