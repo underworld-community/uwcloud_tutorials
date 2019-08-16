@@ -15,7 +15,7 @@ This repository contains a series of Jupyter Notebooks which are officially main
 
 [UWGeodynamics Tutorial 2](https://mybinder.org/v2/gh/underworld-community/official/master?filepath=UWGeodynamics_Tutorials/UWGeo_tutorial2_RiftMelt%2FTutorial_2_Melt.ipynb)
 
-[UWGeodynamics Tutorial 3](https://mybinder.org/v2/gh/underworld-community/official/master?filepath=UWGeodynamics_Tutorials/UWGeo_tutorial2_RiftMelt%2FTutorial3_sandbox_extension_deform_mesh.ipynb)
+[UWGeodynamics Tutorial 3](https://mybinder.org/v2/gh/underworld-community/official/master?filepath=UWGeodynamics_Tutorials/UWGeo_tutorial3_ExtensionStaticMesh%2FTutorial3_sandbox_extension_deform_mesh.ipynb)
 
 </details>
 
