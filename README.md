@@ -14,7 +14,6 @@ This repository contains a series of Jupyter Notebooks which are officially main
 (Thermo-mechanical model with pressure and temperature dependent, non-linear viscous-plastic rheologies)
 
 [UWGeodynamics Tutorial 2](https://mybinder.org/v2/gh/underworld-community/official/master?filepath=UWGeodynamics_Tutorials/UWGeo_tutorial2_RiftMelt%2FTutorial_2_Melt.ipynb)
-(Thermo-mechanical model with pressure and temperature dependent, non-linear viscous-plastic rheologies)
 
 </details>
 
