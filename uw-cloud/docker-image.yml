@@ -1,0 +1,16 @@
+## The image name is the docker hub location / tag
+imagename:  lmoresi/uw_on_the_uw_user_cloud:2019.08.26iv_dev
+
+## The description is a string that may be auto-read and displayed to a user who is browsing for images
+description:  The underworld community (v2.8 test release)
+
+## The unique id maps to a directory in the users home directory on uw-cloud
+## There is a sanitisation process and a unique tag is also added but something descriptive is best
+unique_id :  uw-official-all
+
+## A MARKDOWN file that can be copied to the home directory to help the user navigate the contents of this repository.
+documentation_url:  https://raw.githubusercontent.com/underworld-community/official/master/uw-cloud/README.md
+
+## This is entirely FYI - the uw-cloud url
+launch_url_dev:  http://developer.cloud.underworldcode.org/user-redirect/lab?gh_repo=underworld-community/official&gh_path=/
+launch_url:           http://user.cloud.underworldcode.org/user-redirect/lab?gh_repo=underworld-community/official&gh_path=/
