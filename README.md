@@ -2,9 +2,17 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/underworld-community/official/master)
 
+[![uw-cloud](https://img.shields.io/static/v1?label=launch&message=uw-cloud&color=orange)](http://user.cloud.underworldcode.org/user-redirect/lab?gh_repo=underworld-community/official&gh_path=/)
+
 ## Official Notebooks Repository
 
 This repository contains a series of Jupyter Notebooks which are officially maintained by the @underworldcode organisation.
+
+[Run on the underworld cloud](http://user.cloud.underworldcode.org/user-redirect/lab?gh_repo=underworld-community/official&gh_path=/)
+ (github login required)
+
+
+
 
 <details>
 <summary>UWGeodynamics Tutorials</summary>
@@ -26,4 +34,3 @@ This repository contains a series of Jupyter Notebooks which are officially main
 | Coupling with Badlands | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/underworld-community/official/master?filepath=UWGeodynamics_Tutorials/UWGeo_tutorial12_CouplingBadlands%2FTutorial_12_CouplingBadlands.ipynb)|
 
 </details>
-
